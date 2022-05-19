@@ -21,3 +21,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Go to a terminal and clone this project in a desired directory: `git clone https://github.com/dissidenttux/react-tutorial-official`.
 2. Navigate to the project's directory, and run: `npm start`. This runs the app in the development mode.
 3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Enjoy the app!
